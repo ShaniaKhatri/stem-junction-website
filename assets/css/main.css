@@ -2583,7 +2583,8 @@
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #e5cada;
+					/*color: #953d75;*/
 				}
 
 /* Image */
@@ -3269,12 +3270,12 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #e5cada;
-			/*background-color: #b74e91;*/
+			background-color: #b74e91;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #e5cada;
+			/*background-color: #953d75;*/
 		}
 
 		.wrapper.fullscreen {
